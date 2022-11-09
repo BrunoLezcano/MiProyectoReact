@@ -5,7 +5,7 @@
 .navBarCompleto{
     background-color: antiquewhite;
     display: flex;
-    padding: 0 1vh;
+    padding: 0 1.5vh;
     align-items: center;
     justify-content: space-between;
     
