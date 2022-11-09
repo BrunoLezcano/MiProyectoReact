@@ -1,0 +1,19 @@
+.imgLogo{
+    max-width: 20vh;
+}
+    
+.navBarCompleto{
+    background-color: antiquewhite;
+    display: flex;
+    padding: 0 1vh;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.logoYTitulo{
+    display: flex;
+    align-items: center;
+}
+
+
